@@ -83,7 +83,7 @@ Rural school libraries face critical challenges that go unaddressed:
 
 ## 🎬 Demo Video
 
-> 📹 **[Watch the full demo on YouTube / Drive](#)**
+> 📹 **[Watch the full demo on YouTube / Drive](https://youtu.be/-CMt2JwFfZ4?si=SSQuOGCoqM3ryhe4)**
 
 ---
 
