@@ -12,7 +12,7 @@ Rural school libraries face critical challenges that go unaddressed:
 - Teachers have no way to monitor which student has borrowed which book
 - Overdue books are never followed up because there's no automated reminder system
 - Students from Kannada-medium schools struggle to understand English book summaries
-- There is no incentive system to motivate students to read more
+- There is no incentive system to motivate students to read more.
 
 **Namma-Pustaka** solves all of these problems in a single, offline-capable Android application.
 
